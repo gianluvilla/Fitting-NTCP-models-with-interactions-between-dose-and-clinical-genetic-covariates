@@ -46,7 +46,6 @@ NTCP_with_interactions/
 │       ├── __init__.py
 │       └── outcome_generation.py
 │
-├── .gitignore
 ├── LICENSE
 └── README.md
 ```
