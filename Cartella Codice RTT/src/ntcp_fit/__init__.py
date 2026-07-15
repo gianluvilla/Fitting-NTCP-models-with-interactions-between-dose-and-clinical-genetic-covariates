@@ -1,3 +1,0 @@
-"""
-EUD-NTCP modelling package.
-"""
